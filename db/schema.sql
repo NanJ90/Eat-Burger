@@ -1,3 +1,7 @@
+
+DROP TABLE table_name CASCADE;
+DROP TABLE IF EXISTS table_name CASCADE;
+
 CREATE DATABASE burgers_db;
 USE burgers_db;
 
