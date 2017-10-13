@@ -1,6 +1,6 @@
 # Eat Burger
 
-** A burger logger with Sequelize, Node, Express, and Handlebars.**
+**A burger logger with Sequelize, Node, Express, and Handlebars.**
 ![alt text](https://github.com/NanJ90/eat-burger/blob/master/public/assets/img/screenshot.png)
 ### Before You Begin
 * Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
